@@ -13,6 +13,7 @@ public class CuentaBancaria {
     double saldo;
     
     long telefono;
+    String direccion;
     
     public CuentaBancaria(){
         this.saldo = 0;
